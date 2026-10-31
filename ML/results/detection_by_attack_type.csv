@@ -1,0 +1,4 @@
+scenario_type,total_scenarios,detected,missed,average_delay,median_delay,minimum_delay,maximum_delay,detection_rate_percent
+gradual_activity,6,6,0,8.5,8.5,4.0,14.0,100.0
+modification_burst,4,4,0,8.5,10.0,3.0,11.0,100.0
+rename_burst,8,8,0,7.25,8.0,2.0,9.0,100.0

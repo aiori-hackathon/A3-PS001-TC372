@@ -1,0 +1,19 @@
+scenario_id,scenario_type,attack_start,status,detection_time,detection_delay_seconds,pre_attack_alerts
+S005,rename_burst,2026-02-03 13:04:41,Detected,2026-02-03 13:04:50,9.0,0
+S007,gradual_activity,2026-01-14 23:46:00,Detected,2026-01-14 23:46:10,10.0,0
+S009,gradual_activity,2026-03-06 21:36:18,Detected,2026-03-06 21:36:22,4.0,0
+S012,modification_burst,2026-02-10 02:26:59,Detected,2026-02-10 02:27:10,11.0,0
+S015,modification_burst,2026-01-17 10:17:40,Detected,2026-01-17 10:17:50,10.0,0
+S028,rename_burst,2026-02-14 00:17:02,Detected,2026-02-14 00:17:10,8.0,0
+S033,rename_burst,2026-02-10 00:33:02,Detected,2026-02-10 00:33:10,8.0,0
+S034,gradual_activity,2026-02-09 12:22:29,Detected,2026-02-09 12:22:40,11.0,0
+S041,rename_burst,2026-03-10 10:58:31,Detected,2026-03-10 10:58:40,9.0,0
+S044,rename_burst,2026-01-28 10:11:28,Detected,2026-01-28 10:11:30,2.0,0
+S051,rename_burst,2026-02-24 05:29:05,Detected,2026-02-24 05:29:10,5.0,0
+S065,rename_burst,2026-02-21 03:32:02,Detected,2026-02-21 03:32:10,8.0,0
+S072,gradual_activity,2026-01-02 20:18:03,Detected,2026-01-02 20:18:10,7.0,0
+S078,gradual_activity,2026-01-16 16:53:36,Detected,2026-01-16 16:53:50,14.0,0
+S079,rename_burst,2026-03-08 10:30:31,Detected,2026-03-08 10:30:40,9.0,0
+S091,gradual_activity,2026-02-27 10:05:55,Detected,2026-02-27 10:06:00,5.0,0
+S104,modification_burst,2026-01-28 00:11:40,Detected,2026-01-28 00:11:50,10.0,0
+S106,modification_burst,2026-01-12 18:34:17,Detected,2026-01-12 18:34:20,3.0,0

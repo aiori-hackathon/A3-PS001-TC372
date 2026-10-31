@@ -1,0 +1,4 @@
+scenario_type,total_windows,rf_false_positives,baseline_false_positives,rf_false_positive_rate,baseline_false_positive_rate
+document_editing,112,0,112,0.0,100.0
+normal,96,0,96,0.0,100.0
+photo_backup,80,0,80,0.0,100.0
