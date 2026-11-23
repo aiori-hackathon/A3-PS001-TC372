@@ -143,6 +143,7 @@ class ExplainableWarningEngine:
             "severity_level": severity_level,
             "severity_score": round(severity_score, 2),
             "status_text": status_text,
+            "statusSummary": status_text,
             "primary_reason": primary_reason,
             "indicators": indicators,
             "metrics": {

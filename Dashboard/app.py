@@ -448,7 +448,7 @@ elif selected_page == "4. Detection Centre":
                 f"""
                 <div class="research-card">
                     <span class="{badge_class}">{diag['severity_level']}</span>
-                    <strong style="margin-left: 10px; font-size: 15px;">{diag['statusSummary']}</strong>
+                    <strong style="margin-left: 10px; font-size: 15px;">{diag.get('statusSummary', diag.get('status_text', 'Alert'))}</strong>
                     <span style="float: right; color: #64748b; font-size: 12px;">Window End: {diag['timestamp']}</span>
                     <p style="margin: 8px 0 6px 0; color: #334155; font-size: 13px;"><b>Primary Reason:</b> {diag['primary_reason']}</p>
                     <div style="font-size: 12px; color: #475569;">
