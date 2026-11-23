@@ -1,0 +1,59 @@
+# Python virtual environments & bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Jupyter & Streamlit
+.ipynb_checkpoints
+.streamlit/secrets.toml
+
+# Android & Gradle Build Artifacts
+.gradle/
+AndroidApp/.gradle/
+AndroidApp/build/
+AndroidApp/*/build/
+AndroidApp/local.properties
+AndroidApp/.idea/
+AndroidApp/*.iml
+AndroidApp/*/*.iml
+AndroidApp/.cxx/
+AndroidApp/captures/
+AndroidApp/output.json
+
+# macOS OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Secrets & Local credentials
+*.pem
+*.key
+*.p12
+*.jks
+credentials.json
+token.json
